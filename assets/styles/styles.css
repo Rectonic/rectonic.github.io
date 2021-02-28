@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: wheat;
+}
+
+h1,
+h3 {
+    color: cornflowerblue;
+}
+
+.description {
+    font-style: oblique;
+}
+
+a {
+    font-weight: 700;
+}
+
+ul,
+ol {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
